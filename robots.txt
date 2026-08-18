@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Host: https://venkat-ship-it470.github.io/sadhana-study-hall
-Sitemap: https://venkat-ship-it470.github.io/sadhana-study-hall/sitemap.xml
+Host: https://sadhanastudyhallnzb.github.io/sadhana-study-hall
+Sitemap: https://sadhanastudyhallnzb.github.io/sadhana-study-hall/sitemap.xml
