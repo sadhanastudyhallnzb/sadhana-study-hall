@@ -1,2 +1,2 @@
-:HL["/sadhana-study-hall/_next/static/css/e191c40423b684bf.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"1LJLewIRulv1AnyHKiquG"}
+:HL["/sadhana-study-hall/_next/static/css/20d74837d6d28571.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"zNGaSYNRpSVnHg73DX76K"}
